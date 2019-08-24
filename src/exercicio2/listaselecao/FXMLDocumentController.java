@@ -101,8 +101,8 @@ public class FXMLDocumentController implements Initializable {
         
         z += TAopniao.getText()+"\n";
         
-        LblDados.setText("Gênero(s) preferido(s): \n "+x+"Queria Assistir: \n"
-                +y+"Opnião: \n"+ z);
+        LblDados.setText("Gênero(s) preferido(s): \n "+x+"Queria Assistir:\n"
+                +y+"Opnião:\n"+ z);
     }
     
 }
